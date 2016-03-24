@@ -1,2 +1,2 @@
 # hello-world
-first github
+English is not easy to understand.
